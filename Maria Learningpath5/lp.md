@@ -8,5 +8,5 @@ license: Apache
 scenarioCount: 2
 scenarios:
   - Maria Scenario5a
-  - Maria Scenario6a
+  - Maria Scenario6b
 title: Maria Learningpath5
